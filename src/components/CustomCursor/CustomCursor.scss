@@ -1,0 +1,20 @@
+@import "../../sass/default/variable";
+.cs_cursor_sm {
+  position: fixed;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  mix-blend-mode: difference;
+  z-index: 9999;
+  @media (max-width: 991px) {
+    display: none !important;
+  }
+}
+.cs_cursor_sm {
+  width: 10px;
+  height: 10px;
+  background-color: $base-color1;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+  transition: 0.2s;
+}

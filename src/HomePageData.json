@@ -1,0 +1,563 @@
+{
+  "heroData": {
+    "bgImgLink": "/images/background/hero-bg.jpg",
+    "imgLink": "/images/section/hero-img.jpg",
+    "title": "Edward <br /> Davis",
+    "subTitle": "Hello, I’m",
+    "designation": "Visual Designer"
+  },
+  "aboutData": {
+    "imgLink": "/images/section/about.jpg",
+    "cvPdf": "/images/Resume.pdf",
+    "title": "Hi There! I'm Edward Davis",
+    "subtitle": "Visual Designer",
+    "text": "I am a Visual Designer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+    "details": [
+      {
+        "title": "Birthday",
+        "info": "May 07, 1990"
+      },
+      {
+        "title": "Phone",
+        "info": "+1 876-369-9009"
+      },
+      {
+        "title": "Email",
+        "info": "devis@example.com"
+      },
+      {
+        "title": "From",
+        "info": "2661 Hich meadow lane bear creek"
+      },
+      {
+        "title": "Language",
+        "info": "English, Germanic"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      },
+      {
+        "title": "Freelance",
+        "info": "Available"
+      }
+    ]
+  },
+  "serviceData": {
+    "services": [
+      {
+        "imgLink": "/images/icon/icon1.png",
+        "title": "Sketches",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/icon/icon2.png",
+        "title": "UI/UX Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/icon/icon3.png",
+        "title": "Product Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/icon/icon4.png",
+        "title": "App Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/icon/icon5.png",
+        "title": "Motion Graphics",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/icon/icon6.png",
+        "title": "Responsive Design",
+        "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+        "effect": "zoom-out-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "skillData": {
+    "title": "All the skills that I have in that field of work are mentioned.",
+    "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+    "skills": [
+      {
+        "title": "Photoshop",
+        "progress": "95%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "title": "Motion Graphic",
+        "progress": "75%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "title": "Adobe XD",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "title": "UX Design",
+        "progress": "85%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "title": "HTML",
+        "progress": "80%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "title": "Digital Marketing",
+        "progress": "90%",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      }
+    ]
+  },
+  "portfolioData": {
+    "portfolioItems": [
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio6.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio6_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "700"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio1.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio1_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "200"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio2.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio2_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "300"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio3.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio3_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "400"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio4.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio4_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "500"
+      },
+      {
+        "imgLink": "/images/portfolio/portfolio5.jpg",
+        "imgLinkLg": "/images/portfolio/portfolio5_lg.jpg",
+        "title": "Product Design",
+        "subTitle": "Design / Marketing",
+        "effect": "fade-up",
+        "duration": "500",
+        "delay": "600"
+      }
+    ]
+  },
+  "blogData": {
+    "useFor": "blog",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "Trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog1.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog2.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "The latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      },
+      {
+        "imgLink": "/images/blog/blog3.jpg",
+        "designation": "Admin",
+        "date": "07-03-2023",
+        "title": "What are the latest trends in Graphic design according to you?",
+        "href": "/blog/blog-details"
+      }
+    ]
+  },
+  "reviewData": {
+    "useFor": "review",
+    "sliderSetting": {
+      "infinite": true,
+      "speed": 500,
+      "slidesToShow": 3,
+      "slidesToScroll": 1,
+      "arrows": false,
+      "responsive": [
+        {
+          "breakpoint": 991,
+          "settings": {
+            "slidesToShow": 2,
+            "autoplay": true
+          }
+        },
+        {
+          "breakpoint": 767,
+          "settings": {
+            "slidesToShow": 1,
+            "autoplay": true
+          }
+        }
+      ]
+    },
+    "informations": [
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client1.png",
+        "title": "Richard Miles",
+        "designation": "Chairman",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client2.png",
+        "title": "Vesta Shufelt",
+        "designation": "Executive Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      },
+      {
+        "imgLink": "/images/client/client3.png",
+        "title": "Joseph Alves",
+        "designation": "Managing Director",
+        "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
+      }
+    ]
+  },
+  "resumeData": {
+    "experienceTitle": "Experience",
+    "experience": [
+      {
+        "title": "Senior UX/UI Designer",
+        "duration": "Jan 2020 - Present",
+        "subTitle": "Bergnaum, Hills and Howe",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Product Designer",
+        "duration": "Jan 2016 - December 2019",
+        "subTitle": "Langosh, Sipes and Raynor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "UI/UX Designer",
+        "duration": "Jan 2014 - December 2015",
+        "subTitle": "Strosin, Maggio and Homenick",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      }
+    ],
+    "educationTitle": "Education",
+    "education": [
+      {
+        "title": "Master of Computer Science",
+        "duration": "2015 - 2016",
+        "subTitle": "University of XYZ",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Bachelor of Computer Science",
+        "duration": "2010 - 2014",
+        "subTitle": "University of ABC",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      },
+      {
+        "title": "Diploma in Computer Science",
+        "duration": "2006 - 2010",
+        "subTitle": "XYZ Institution",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
+      }
+    ]
+  },
+  "contactData": {
+    "formTitle": "Just say Hello",
+    "title": "Contact Info",
+    "subTitle": "Visite my social profile and get connected",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla tincidunt id faucibus sed suscipit feugiat."
+  },
+  "socialData": [
+    {
+      "icon": "dribbble",
+      "title": "Dribbble",
+      "link": "/"
+    },
+    {
+      "icon": "behance",
+      "title": "Behance",
+      "link": "/"
+    },
+    {
+      "icon": "twitter",
+      "title": "Twitter",
+      "link": "/"
+    },
+    {
+      "icon": "linkedin",
+      "title": "LinkedIn",
+      "link": "/"
+    }
+  ]
+}

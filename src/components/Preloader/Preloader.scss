@@ -1,0 +1,56 @@
+@import "../../sass/default/variable";
+
+.st-preloader {
+  position: fixed;
+  z-index: 99999;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: $base-color4;
+  .st-preloader-in {
+    width: 120px;
+    height: 120px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 28px;
+    border: 5px solid rgba($base-color2, 0.3);
+    border-radius: 50%;
+    &::after {
+      content: "";
+      border-width: 5px;
+      border-style: solid;
+      border-color: transparent;
+      border-top-color: $base-color1;
+      border-radius: 50%;
+      position: absolute;
+      width: calc(100% + 10px);
+      height: calc(100% + 10px);
+      left: 50%;
+      top: 50%;
+      animation: spin 1s ease-in-out infinite;
+      margin-left: -60px;
+      margin-top: -60px;
+      @keyframes spin {
+        0% {
+          transform: rotate(0deg);
+        }
+        100% {
+          transform: rotate(360deg);
+        }
+      }
+    }
+    &::before {
+      content: "";
+      height: 8px;
+      width: 8px;
+      border-radius: 50%;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%, -50%);
+      background-color: $base-color1;
+    }
+  }
+}
