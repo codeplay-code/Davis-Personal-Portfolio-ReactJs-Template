@@ -1,0 +1,85 @@
+.glyphicons-list {
+list-style:none;
+padding:0;
+}
+
+.glyphicons-list li {
+display:inline-block;
+float:left;
+width:12.5%;
+height:115px;
+background-color:#f8f8f8;
+border:1px solid #fff;
+transition:.3s ease;
+padding:10px;
+}
+
+.glyphicons-list li:hover {
+background-color:#eee;
+}
+
+.glyphicons-list .glyphicon {
+display:block;
+text-align:center;
+font-size:25px;
+color:#222;
+}
+
+.glyphicons-list .glyphicon-class {
+display:block;
+text-align:center;
+margin-top:10px;
+line-height:16px;
+font-size:13px;
+}
+
+.fa-page-header {
+font-size:20px;
+padding-bottom:15px;
+border-bottom:1px solid #f1f1f1;
+}
+
+.fontawesome-icon-list .fa-hover {
+margin-bottom:5px;
+transition:.3s ease;
+}
+
+.fontawesome-icon-list .fa-hover:hover {
+background-color:#f8f8f8;
+}
+
+.fontawesome-icon-list .fa-hover .fa {
+width:25px;
+color:#222;
+}
+
+.prism-languages {
+list-style:none;
+margin:20px 0;
+padding:0;
+}
+
+.prism-languages li {
+width:33.3333%;
+float:left;
+}
+
+.prism-languages li code {
+margin-left:8px;
+}
+
+.window-content .btn {
+margin-bottom:6px;
+}
+
+@media max-width767px{
+.glyphicons-list li {
+width:25%;
+}
+}
+
+@media max-width991px{
+.prism-languages li {
+width:50%;
+}
+}

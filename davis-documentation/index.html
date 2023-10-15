@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="" />
+  <meta name="keywords" content="" />
+  <title>Davis – Personal Portfolio ReactJs Template</title>
+
+  <!-- Styles -->
+  <link href="assets/css/collection.css" rel="stylesheet" />
+  <link href="assets/css/custom.css" rel="stylesheet" />
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500%7CLato:300,400,700" rel="stylesheet"
+    type="text/css" />
+
+  <!-- Scripts -->
+  <script src="assets/js/other.js"></script>
+  <script src="assets/js/custom.js"></script>
+</head>
+
+<body data-spy="scroll" data-target=".sidebar" data-offset="200">
+  <!-- Sidebar -->
+  <aside class="sidebar sidebar-boxed sidebar-dark">
+    <ul class="nav sidenav dropable">
+      <li><a href="#getting_started" title="Setup Development Envrionment">Setup Development Environment</a></li>
+      <li><a href="#introduction" title="Introduction">Introduction</a></li>
+      <li><a href="#documenter_cover">Pages and Components Info</a></li>
+      <li><a href="#data">Template Data</a></li>
+      <li><a href="#dependencies" title="Dependencies">Dependencies</a></li>
+      <li><a href="#fonts_used" title="Fonts">Fonts</a></li>
+      <li><a href="#icons" title="Fonts">Icons</a></li>
+      <li><a href="#deploy" title="Credits">Deploy</a></li>
+      <li><a href="#credits" title="Credits">Credits</a></li>
+      <li><a href="#supports" title="Support">Support</a></li>
+    </ul>
+  </aside>
+  <!-- END Sidebar -->
+
+  <header class="site-header navbar-transparent">
+    <!-- Banner -->
+    <div class="banner auto-size" style="background-color: #fafafa;">
+      <div class="container-fluid">
+        <h1><strong>Davis - Documentation</strong></h1>
+        <ul>
+          <li>Template Name: Davis</li>
+          <li>Created: 29 July, 2023</li>
+          <li>Version: 1.0.0</li>
+          <li>Author: <a target="_blank" href="https://themeforest.net/user/laralink"> Laralink</a></li>
+        </ul>
+      </div>
+    </div>
+    <!-- END Banner -->
+  </header>
+
+  <main class="container-fluid">
+    <!-- Main content -->
+    <article class="main-content" role="main">
+      <section id="getting_started">
+        <div class="page-header">
+          <h3>Setup Development Environment</h3>
+        </div>
+        <p>
+          In order to kickstart the development of your web app with Davis,
+          the very first thing you need to do is to setup a react development
+          environment.
+        </p>
+        <p>Following tools are needed to setup a react dev environment:</p>
+        <ul>
+          <li><b>Node JS</b></li>
+          <p>
+            NodeJS works as a node package manager behind the scene. It is
+            recommended to download and install the latest version of Node JS
+            from its official site
+            <a href="http://nodejs.org/" target="_blank">http://nodejs.org/</a>
+          </p>
+        </ul>
+      </section>
+      <section id="introduction">
+        <div class="page-header">
+          <h3>Introduction</h3>
+        </div>
+        <p>
+          To install Davis on your local matchin, download the files from Themeforest and unzip them to the local disk
+          on your computer. <br>Inside the extracted folder you will see two folders named 'Davis-documentation' and
+          'Davis-react'. <br>
+          Open 'Davis-react' with a code editor like <a href="https://code.visualstudio.com/">vscode</a>. And follow the
+          stapes below-
+        </p>
+        <strong>For npm:</strong> <br />
+        <p>
+          Open vscode terminal <br>
+          Then run : <code class="language-markup">npm install</code> <br>
+          Then run : <code class="language-markup">npm run dev</code> <br>
+          Now in the browser go <a href="http://localhost:5173/">http://localhost:5173/</a>
+        </p>
+        <strong>If you want to use yarn:</strong>
+        <p>
+          Open vscode terminal <br>
+          Then run : <code class="language-markup">yarn install</code> <br>
+          Then run : <code class="language-markup">yarn dev</code> <br>
+          Now in the browser go <a href="http://localhost:5173/">http://localhost:5173/</a>
+        </p>
+      </section>
+      <section id="folderstructures">
+        <div class="page-header">
+          <h3>Introduction</h3>
+        </div>
+        <ul>
+          <!-- <li><strong>node_modules</strong> - </li> -->
+          <li><strong>public</strong> - All static files
+            <ul>
+              <li><strong>images</strong> - All images for this template</li>
+            </ul>
+          </li>
+          <li><strong>src</strong> - Content all the react file
+            <ul>
+              <li><strong>components</strong> - All components with relevant SCSS</li>
+              <li><strong>pages</strong> - All pages on that template</li>
+              <li><strong>scss</strong> - Common SCSS file</li>
+              <li><strong>data</strong> - All content (data) of the template</li>
+              <li><strong>app.jsx</strong> - Starting poing of react components</li>
+              <li><strong>main.jsx</strong> - Entry poing of react app</li>
+            </ul>
+          </li>
+          <li><strong>index.html</strong> - Static index page.</li>
+          <li><strong>package.json</strong> - All packages have information</li>
+          <li><strong>node_modules</strong> - After install Davis you can see this folder, this folder content all
+            installed package.</li>
+        </ul>
+      </section>
+
+      <section id="data">
+        <div class="page-header">
+          <h3>Template Data</h3>
+        </div>
+
+        <div id="documenter_buttons"></div>
+        <p>We are creating a JSON file called HomePageData.json, all data comes from that JSON file <br> If you want to
+          change any type of content please open HomePageData.json file and change or update your data. <br>On that
+          file, we separate all sections of data, like hero, socialBtns, brands, etc. Just open it you will understand.
+        </p>
+      </section>
+      <section id="documenter_cover">
+        <div class="page-header">
+          <h3>Pages and Components Info</h3>
+        </div>
+
+        <div id="documenter_buttons"></div>
+        <ul>
+          <li>Home (<b>/pages/Home.jsx</b>)</li>
+        </ul>
+        <h6 style="margin-top: 20px;"><strong>Common Components:</strong></h6>
+        <ul>
+          <li>Header (<b>/components/Header</b>)</li>
+          <li>Footer (<b>/components/Footer</b>)</li>
+        </ul>
+
+        <h6 style="margin-top: 20px;"><strong>Template Features:</strong></h6>
+        <ul>
+          <li>ES6+</li>
+          <li>React JS 18.2.0+</li>
+        </ul>
+
+
+        <p></p>
+      </section>
+
+      <section id="dependencies">
+        <div class="page-header">
+          <h3>Dependencies</h3>
+        </div>
+        <p>
+          Here are the <strong>dependencies</strong> list which being used in
+          the Davis React Template:
+        </p>
+        <pre class="line-numbers">
+          <code class="language-markup"> 
+            "dependencies": {
+              "aos": "^2.3.4",
+              "bootstrap": "^5.3.0",
+              "gsap": "^3.12.2",
+              "html-react-parser": "^4.2.0",
+              "react": "^18.2.0",
+              "react-dom": "^18.2.0",
+              "react-router-dom": "^6.14.2",
+              "react-scroll": "^1.8.9",
+              "react-slick": "^0.29.0",
+              "sass": "^1.63.6",
+              "slick-carousel": "^1.8.1"
+            },
+            "devDependencies": {
+              "@iconify/react": "^4.1.1",
+              "@types/react": "^18.2.14",
+              "@types/react-dom": "^18.2.6",
+              "@vitejs/plugin-react": "^4.0.1",
+              "eslint": "^8.44.0",
+              "eslint-plugin-react": "^7.32.2",
+              "eslint-plugin-react-hooks": "^4.6.0",
+              "eslint-plugin-react-refresh": "^0.4.1",
+              "vite": "^4.4.0"
+            }
+          </code>
+        </pre>
+      </section>
+
+      <section id="fonts_used">
+        <div class="page-header">
+          <h3>Fonts</h3>
+        </div>
+        <p>
+          By default, the template loads <a href="https://fonts.google.com/specimen/Inter?query=Inter">Inter</a> and <a
+            href="https://fonts.google.com/specimen/Open+Sans?query=Open">Open Sans</a> font from
+          Google Web Font Services, you can change the font with the one that
+          suits you best.
+        </p>
+        <p>
+          You will find the font code in the &quot;<strong>scss/default/_typography.scss</strong>
+        </p>
+        <pre class="line-numbers">
+<code class="language-css">
+  @import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+</code>
+                    </pre>
+      </section>
+      <section id="icons">
+        <div class="page-header">
+          <h3>Icons</h3>
+        </div>
+        <p>
+          We use <a href="https://icon-sets.iconify.design/">Iconify</a> package for icon. <br>
+          For use <a href="https://icon-sets.iconify.design/">Iconify</a>, go to <a
+            href="https://icon-sets.iconify.design/">Iconify</a> site, search your icon, select react and use that react
+          component.
+        </p>
+      </section>
+      <section id="deploy">
+        <div class="page-header">
+          <h3>Deploy</h3>
+        </div>
+        <p>
+          For deploy first run the command <code class="language-markup">npm run build</code> or <code
+            class="language-markup">yarn build</code> <br>
+          Now you will get build folder. <br>
+          Using an FTP Client (such as Filezilla or Total Commander), you will need to upload all of the contents of the
+          'build' folder to your server.
+        </p>
+      </section>
+      <section id="credits">
+        <div class="page-header">
+          <h3>Credits</h3>
+        </div>
+        <strong>Images</strong><br />
+        <a href="https://www.freepik.com/" target="_blank">Freepick</a><br />
+        <a href="https://unsplash.com/" target="_blank">Unsplash</a><br />
+
+        <div class="height-15"></div>
+
+        <strong>Packages</strong><br />
+        <a href="https://www.npmjs.com/package/aos" target="_blank">aos</a><br />
+        <a href="https://www.npmjs.com/package/bootstrap" target="_blank">bootstrap</a><br />
+        <a href="https://www.npmjs.com/package/gsap" target="_blank">gsap</a><br />
+        <a href="https://www.npmjs.com/package/html-react-parser" target="_blank">html-react-parser</a><br />
+        <a href="https://www.npmjs.com/package/react" target="_blank">react</a><br />
+        <a href="https://www.npmjs.com/package/react-dom" target="_blank">react-dom</a><br />
+        <a href="https://www.npmjs.com/package/react-router-dom" target="_blank">react-router-dom</a><br />
+        <a href="https://www.npmjs.com/package/react-scroll" target="_blank">react-scroll</a><br />
+        <a href="https://www.npmjs.com/package/react-slick" target="_blank">react-slick</a><br />
+        <a href="https://www.npmjs.com/package/sass" target="_blank">sass</a><br />
+        <a href="https://www.npmjs.com/package/slick-carousel" target="_blank">slick-carousel</a><br />
+        <a href="https://www.npmjs.com/package/@iconify/react" target="_blank">@iconify/react</a><br />
+
+      </section>
+
+      <section id="supports">
+        <div class="page-header">
+          <h3>Support</h3>
+        </div>
+        <p>
+          If you have any questions, please use our profile contact form on
+          Envato (
+          <a target="_blank" href="https://themeforest.net/user/Laralink">https://themeforest.net/user/Laralink</a>
+          ) Or direct email us on <a href="mailto:laralink007@Laralink.com">laralink007@Laralink.com</a>. <br />
+          We aim to answer all questions within <strong>5 days</strong> . In
+          some cases the waiting time can be extended to
+          <strong>7 days.</strong>
+        </p>
+      </section>
+    </article>
+    <!-- END Main content -->
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container-fluid">
+      <a id="scroll-up" href="#"><i class="fa fa-angle-up"></i></a>
+      <div class="row">
+        <div class="col-md-6 col-sm-6">
+          <p>
+            Copyright &copy; All right reserved by
+            <a href="https://themeforest.net/user/Laralink" target="_new">Laralink</a>
+          </p>
+        </div>
+        <div class="col-md-6 col-sm-6">
+          <ul class="footer-menu">
+            <li><a href="mailto:laralink007@Laralink.com">Contact us</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- END Footer -->
+</body>
+
+</html>
